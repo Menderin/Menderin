@@ -2,14 +2,17 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Menderin.Menderin) [![GitHub followers](https://img.shields.io/github/followers/Menderin.svg?style=social&label=Follow)](https://github.com/Menderin?tab=followers)<br/>
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6bmZ5bmR6bmZ5bmR6bmZ5bmR6bmZ5bmR6bmZ5bmR6bmZ5bmZ5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPQC1Q7UsC88/giphy.gif" />
+<img align="right" width="190" src="https://raw.githubusercontent.com/Menderin/Menderin/main/images/Technology isometric ai robot brain.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I'm an Informatics Engineering student specializing in Artificial Intelligence at Universidad Católica del Norte. I am driven by the challenge of building innovative, real-world solutions that bridge the gap between intelligent software and physical hardware.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Menderin&theme=tokyonight&hide_border=true" />
+</p>
+- ✔ Ask me about anything, I am happy to help😉<br>
 
 ## My Skills Include
-<br clear="right"/>
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -29,21 +32,25 @@ I'm an Informatics Engineering student specializing in Artificial Intelligence a
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
-- 🧠 Core Interests
-  - Deeply interested in Machine Learning
-  - Deep Learning
-  - Edge AI focusing on implementing intelligent systems on microcontrollers and robotics frameworks.
-  - 
-- 🌱 I’m currently leveling up ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+<h4>🧠 Core Interests</h4>
+<span>
+  <img src="https://img.shields.io/badge/Machine Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Edge AI-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Robotics-22314E?style=for-the-badge&logo=ros&logoColor=white">
+</span>
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Menderin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menderin&layout=compact&langs_count=7&theme=radical"/>
-</p>
+<h4>🌱 Currently Learning</h4>
+<span>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/RNNs-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</span>
+<h4>📫 Reach out to me at:</h4>
+<span>
+<a href="mailto:vjopia2004@gmail.com">
+  <img src="https://img.shields.io/badge/vjopia2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<img src="https://img.shields.io/badge/completo__zarlu-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</span>
+
