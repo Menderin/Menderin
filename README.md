@@ -1,5 +1,10 @@
 <h1 align="center">Hi , I'm Víctor Jopia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A049&center=true&vCenter=true&width=550&lines=AI+%26+Machine+Learning+Enthusiast;Deep+Learning+%26+Computer+Vision;Python+%26+PyTorch+Developer;Building+Intelligent+Solutions&size=22" alt="Typing SVG" />  </a>
+</p>
+
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Menderin.Menderin) [![GitHub followers](https://img.shields.io/github/followers/Menderin.svg?style=social&label=Follow)](https://github.com/Menderin?tab=followers)<br/>
 
 <img align="right" width="190" src="https://raw.githubusercontent.com/Menderin/Menderin/main/images/Technology isometric ai robot brain.gif" />
