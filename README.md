@@ -29,6 +29,7 @@ I'm an Informatics Engineering student specializing in Artificial Intelligence a
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
 
@@ -49,7 +50,7 @@ I'm an Informatics Engineering student specializing in Artificial Intelligence a
 <h4>📫 Reach out to me at:</h4>
 <span>
 <a href="mailto:vjopia2004@gmail.com">
-  <img src="https://img.shields.io/badge/vjopia2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Contact Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <img src="https://img.shields.io/badge/completo__zarlu-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </span>
