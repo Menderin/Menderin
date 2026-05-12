@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A049&center=true&vCenter=true&width=550&lines=AI+%26+Machine+Learning+Enthusiast;Deep+Learning+%26+Computer+Vision;Python+%26+PyTorch+Developer;Building+Intelligent+Solutions&size=22" alt="Typing SVG" />  </a>
 </p>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Menderin.Menderin) [![GitHub followers](https://img.shields.io/github/followers/Menderin.svg?style=social&label=Follow)](https://github.com/Menderin?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Menderin.Menderin) [![GitHub followers](https://img.shields.io/github/followers/Menderin.svg?style=social&label=Follow)](https://github.com/Menderin?tab=followers) [![Repositories](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Menderin&query=public_repos&label=Repositories&color=blue&logo=github&logoColor=white)](https://github.com/Menderin?tab=repositories)<br/>
 
 <img align="right" width="190" src="https://raw.githubusercontent.com/Menderin/Menderin/main/images/Technology isometric ai robot brain.gif" />
 
